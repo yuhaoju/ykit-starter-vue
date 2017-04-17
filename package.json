@@ -1,0 +1,14 @@
+{
+  "name": "ykit-starter-vue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ykit-config-vue": "^0.1.1"
+  }
+}
