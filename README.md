@@ -1,5 +1,5 @@
-# ykit-starter-react
-ykit-Vue.js 示例工程。
+# ykit-starter-vue
+ykit Vue.js 示例工程。
 
 ## Getting Started
 ```

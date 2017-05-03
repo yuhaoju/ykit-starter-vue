@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ykit-config-vue": "^0.1.1"
+    "ykit-config-vue": "^0.2.0"
   }
 }
