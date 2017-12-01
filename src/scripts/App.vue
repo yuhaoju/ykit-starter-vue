@@ -24,7 +24,7 @@ export default {
 <style lang="scss">
 body {
     h1 {
-        color: #444;
+        color: #09c;
     }
 }
 </style>
