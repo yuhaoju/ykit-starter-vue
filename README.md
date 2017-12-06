@@ -1,5 +1,5 @@
 # ykit-starter-vue
-YKit-Vue.js 示例工程(如果使用 ykit@1，请看[这里](https://github.com/roscoe054/ykit-starter-vue/tree/ykit-v1))
+YKit-Vue.js 示例工程(**本示例要使用 ykit@next，如果使用 ykit@1，请看[这里](https://github.com/roscoe054/ykit-starter-vue/tree/ykit-v1)**)
 
 ## Getting Started
 ```
